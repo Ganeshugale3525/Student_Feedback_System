@@ -1,0 +1,26 @@
+input{
+	width:400px;
+	height:40px;
+	margin:10px;
+	display:block;
+	border-radius:20px;
+	margin:20px;
+	background-color:#0f0363;
+	color:white;
+	
+}
+.adminf{
+	padding:20px;
+	margin-left:35%;
+	margin-top:200px;
+	width:450px;
+	height:300px;
+	border:4px solid black;
+	border-radius:0px 30px;
+	border-shadow:10px;
+	opacity: 0.5;
+	 box-shadow: 15px 10px rgb(189, 189, 189);
+}
+.adminf h1{
+margin-left:30%;	
+}
